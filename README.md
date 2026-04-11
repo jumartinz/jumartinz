@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Anna Júlia — Desenvolvedora Full Stack em Formação</h1>
+<h1 align="center">👩‍💻 Anna Júlia — Desenvolvedora BackEnd em Formação</h1>
 
 <p align="center">
 Apaixonada por tecnologia, robótica e criação de projetos.  
@@ -9,7 +9,7 @@ Sempre buscando aprender, evoluir e contribuir com soluções inovadoras.
 
 ## ✨ Sobre Mim
 
-🌱 Atualmente em formação como *Desenvolvedora Full Stack*  
+🌱 Atualmente em formação como *Desenvolvedora BackEnd*  
 📚 Com base sólida em *Análise de Dados* e *Linguagens de Programação*  
 💡 Sou proativa, curiosa e adoro me desafiar com novos projetos  
 🚀 Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente  
