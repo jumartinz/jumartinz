@@ -1,15 +1,14 @@
 <h1 align="center">👩‍💻 Anna Júlia — Desenvolvedora BackEnd em Formação</h1>
 
 <p align="center">
-Apaixonada por tecnologia, robótica e criação de projetos.  
-Sempre buscando aprender, evoluir e contribuir com soluções inovadoras.
+**Estudante de Análise e Desenvolvimento de Sistemas pela UNICID e Engenharia de Software pela FIAP**. Apaixonada por **I.A**, **robótica** e **automação** , busco sempre traduzir requisitos complexos em arquiteturas de dados e scripts funcionais.
 </p>
 
 ---
 
 ## ✨ Sobre Mim
 
-🌱 Atualmente em formação como *Desenvolvedora BackEnd*  
+🌱 Atualmente em formação como *Desenvolvedora BackEnd* com foco em **Java** e **Cybersecurity**
 📚 Com base sólida em *Análise de Dados* e *Linguagens de Programação*  
 💡 Sou proativa, curiosa e adoro me desafiar com novos projetos  
 🚀 Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente  
