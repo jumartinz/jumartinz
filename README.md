@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Anna Júlia — Desenvolvedora BackEnd em Formação</h1>
 
-**Estudante de Análise e Desenvolvimento de Sistemas pela UNICID e Engenharia de Software pela FIAP**. Apaixonada por **I.A**, **robótica** e **automação** , busco sempre traduzir requisitos complexos em arquiteturas de dados e scripts funcionais.
+**Estudante de Análise e Desenvolvimento de Sistemas pela UNICID e Engenharia de Software pela FIAP**. Apaixonada por **I.A**, **robótica** e **automação**, busco sempre traduzir requisitos complexos em arquiteturas de dados e scripts funcionais.
 </p>
 
 ---
