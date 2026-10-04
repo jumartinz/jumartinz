@@ -1,53 +1,45 @@
-<h1 align="center">👩‍💻 Anna Júlia — Desenvolvedora BackEnd em Formação</h1>
+# Olá 👋, eu sou a Anna Júlia
 
-**Estudante de Análise e Desenvolvimento de Sistemas pela UNICID e Engenharia de Software pela FIAP**. Apaixonada por **I.A**, **robótica** e **automação**, busco sempre traduzir requisitos complexos em arquiteturas de dados e scripts funcionais.
-</p>
+**Estudante de Análise e Desenvolvimento de Sistemas | Aprendiz Administrativo @ FIAP (Talent Lab)**
 
----
+> *Construindo a base para me tornar Desenvolvedora Fullstack.*
 
-## ✨ Sobre Mim
-
-🌱 Atualmente em formação como **Desenvolvedora BackEnd** com foco em **Java** e **Cybersecurity**
-📚 Com base sólida em *Análise de Dados* e *Linguagens de Programação*  
-💡 Sou proativa, curiosa e adoro me desafiar com novos projetos  
-🚀 Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente  
-🤝 Acredito no poder do trabalho em equipe e na inovação  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#) <!-- Coloque seu link aqui -->
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com) <!-- Coloque seu email aqui -->
 
 ---
 
-## 🧠 Tecnologias que estudo e utilizo
+### 🚀 Sobre Mim
 
-### 🖥️ Linguagens & Ferramentas
+Sou estudante do curso de **Análise e Desenvolvimento de Sistemas (ADS) na FIAP**. Tenho um interesse crescente em criar soluções estruturadas e venho aprofundando meus conhecimentos práticos em **Programação Orientada a Objetos**, utilizando ambientes como o GitHub Codespaces para meus projetos e testes de código. 
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="55" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="55" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" title="Git"/>
-</div>
+Meu grande objetivo é fazer a transição para atuar como Engenheira de Software Júnior / Desenvolvedora Fullstack, unindo minha vivência no ambiente corporativo com a base técnica que estou construindo na faculdade.
 
 ---
 
-## 🔧 Ferramentas do Dia a Dia
+### 🛠️ Tech Stack & Ferramentas
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" title="GitHub"/>
-</div>
-
----
-
-## 🎯 Objetivo Profissional
-
-Conquistar uma posição onde eu possa aplicar minhas habilidades, aprender continuamente e participar do desenvolvimento de projetos relevantes ao lado de uma equipe inovadora.
+![POO](https://img.shields.io/badge/Orientação_a_Objetos-1572B6?style=for-the-badge&logo=code&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- Adicione aqui as linguagens que você mais usa (ex: Java, Python) usando o formato acima -->
 
 ---
 
-## 📬 Contato
+### 📊 GitHub Stats
+
+<!-- Você pode gerar seus próprios cards dinâmicos usando o github-readme-stats -->
+[![Análise de Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)](https://github.com/SEU_USUARIO_AQUI)
+
+---
+
+### 🔭 Atualmente Aprendendo
+
+![ADS](https://img.shields.io/badge/Sistemas-Unicid-000000?style=for-the-badge) 
+![English](https://img.shields.io/badge/Inglês-Wizard_ON-000000?style=for-the-badge)
+
+---
+*💡 "Transformando lógica em código, um commit de cada vez."*
 
 📧 *Email:* ajulia.amartins05@gmail.com  
 🔗 *LinkedIn:* linkedin.com/in/júlia-martins-60327322a  
