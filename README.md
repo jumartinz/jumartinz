@@ -35,7 +35,7 @@ Meu grande objetivo é fazer a transição para atuar como Engenheira de Softwar
 
 ### 🔭 Atualmente Aprendendo
 
-![ADS](https://img.shields.io/badge/Sistemas-Unicid-000000?style=for-the-badge) 
+![ADS](https://img.shields.io/badge/Sistemas-FIAP-ED145B?style=for-the-badge) 
 ![English](https://img.shields.io/badge/Inglês-Wizard_ON-000000?style=for-the-badge)
 
 ---
