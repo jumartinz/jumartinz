@@ -1,6 +1,6 @@
 # Olá 👋, eu sou a Anna Júlia
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Aprendiz Administrativo @ FIAP (Talent Lab)**
+**Estudante de Análise e Desenvolvimento de Sistemas | Assistente Administrativo @ FIAP (Talent Lab)**
 
 > *Construindo a base para me tornar Desenvolvedora Fullstack.*
 
